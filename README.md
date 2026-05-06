@@ -165,7 +165,7 @@ Projet développé à deux dans le cadre du programme de génie logiciel de l'É
 | | Rôle |
 |---|---|
 | **Sacha Burelle** | Co-fondateur · Full-stack · Architecture |
-| **[Collègue]** | Co-fondateur · Full-stack |
+| **Wassim Ouali** | Co-fondateur · Full-stack |
 
 ---
 
