@@ -23,24 +23,24 @@
     <td align="center"><b>Organisation</b></td>
   </tr>
   <tr>
-    <td><img src="./screenshots/screen_welcome.png" alt="Accueil" /></td>
-    <td><img src="./screenshots/screen_org.png" alt="Organisation" /></td>
+    <td><img src="./screen_welcome.png" alt="Accueil" /></td>
+    <td><img src="./screen_org.png" alt="Organisation" /></td>
   </tr>
   <tr>
     <td align="center"><b>Playbook</b></td>
     <td align="center"><b>Lineups interactifs</b></td>
   </tr>
   <tr>
-    <td><img src="./screenshots/screen_playbook.png" alt="Playbook" /></td>
-    <td><img src="./screenshots/screen_lineups.png" alt="Lineups" /></td>
+    <td><img src="./screen_playbook.png" alt="Playbook" /></td>
+    <td><img src="./screen_lineups.png" alt="Lineups" /></td>
   </tr>
   <tr>
     <td align="center"><b>Team Agenda</b></td>
     <td align="center"><b>Match History</b></td>
   </tr>
   <tr>
-    <td><img src="./screenshots/screen_agenda.png" alt="Agenda" /></td>
-    <td><img src="./screenshots/screen_matchhistory.png" alt="Match History" /></td>
+    <td><img src="./screen_agenda.png" alt="Agenda" /></td>
+    <td><img src="./screen_matchhistory.png" alt="Match History" /></td>
   </tr>
 </table>
 
